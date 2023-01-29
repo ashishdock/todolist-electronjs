@@ -1,0 +1,15 @@
+{
+  "name": "todos-electron",
+  "version": "1.0.0",
+  "description": "To Do App in electronjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "electron": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.1.0"
+  }
+}
